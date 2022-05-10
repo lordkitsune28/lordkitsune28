@@ -3,8 +3,13 @@
 
 Mi nombre es Carlos Medina, soy tecnico auxiliar en analisis y programacion, las tecnologias que implemento son JavaScript en React y Nodejs
 
+Mi Perfil de Linkedin: <a href="https://www.linkedin.com/in/carlos-armando-medina-ramirez-326807212/"><img src="https://user-images.githubusercontent.com/92535945/167727054-02c2f88d-8995-4fd1-9cdc-e2f182d26171.png" align="center" width="100" ></a>
+
+<br>
+
 ### Desarrollador Web Frontend
 <hr>
+
 
 ## Habilidades
 <img src="https://user-images.githubusercontent.com/92535945/167719335-30b0bf46-894b-4855-8fce-25915574f155.svg" align="left" width="100" >
