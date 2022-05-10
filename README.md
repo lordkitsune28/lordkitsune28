@@ -1,9 +1,21 @@
+### BIENVENIDOS A MI PERFIL DE GITHUB
+<hr>
+
+Mi nombre es Carlos Medina, soy tecnico auxiliar en analisis y programacion, las tecnologias que implemento son JavaScript en React y Nodejs
+
 ### Desarrollador Web Frontend
 <hr>
 
 ## Habilidades
+<img src="https://user-images.githubusercontent.com/92535945/167719335-30b0bf46-894b-4855-8fce-25915574f155.svg" align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/167719554-a9e0fee1-b338-4b1b-822e-f51565521500.svg" align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/167719560-081dc550-8c19-4b34-9e0f-4a05748f4652.svg" align="left" width="100" >
 
-![download](https://user-images.githubusercontent.com/92535945/167052999-18d9aeeb-8ace-4cb0-85a3-5cc0c93c1321.png)![download](https://user-images.githubusercontent.com/92535945/167053312-69c6181f-bc39-485d-8042-780fb147b609.png)
+<img src="https://user-images.githubusercontent.com/92535945/167713859-40fed952-5dff-4597-b81c-3d9483b1e9b8.svg" align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/167721084-4477d844-680d-4343-9802-1f67f07dbd16.svg" align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/167721079-63463df8-5231-422c-ad32-fbd74653df03.svg" align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/167721765-2b80af9d-be1f-41f5-a50d-37a011405c58.svg" align="left" width="100" >
+
+<img src="https://user-images.githubusercontent.com/92535945/167721762-8fc247b0-a4e0-40f2-a72b-7f27a2c9efff.svg" align="left" width="100" >
 
 
-# reactjs | HTML5 | CSS | JAVASCRIPT | RESPONSIVE DESING | WEBPACK | BABEL | GIT Y GITHUB | DESPLIEGUE DE LAS APLICACIONES EN LA NUBE | DESING THINKING | METOLOGIAS AGILES
