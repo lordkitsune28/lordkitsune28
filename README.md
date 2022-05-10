@@ -1,7 +1,7 @@
 ### BIENVENIDOS A MI PERFIL DE GITHUB
 <hr>
 
-Mi nombre es Carlos Medina, soy tecnico auxiliar en analisis y programacion, las tecnologias que implemento son JavaScript en React y Nodejs
+Mi nombre es Carlos Medina, soy tecnico auxiliar en analisis y programacion de sistemas, las tecnologias que implemento son JavaScript en React y Nodejs
 
 Mi Perfil de Linkedin: <a href="https://www.linkedin.com/in/carlos-armando-medina-ramirez-326807212/"><img src="https://user-images.githubusercontent.com/92535945/167727054-02c2f88d-8995-4fd1-9cdc-e2f182d26171.png" align="center" width="100" ></a>
 
