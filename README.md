@@ -23,5 +23,5 @@ Mi Perfil de Linkedin: <a href="https://www.linkedin.com/in/carlos-armando-medin
 
 <img src="https://user-images.githubusercontent.com/92535945/167721762-8fc247b0-a4e0-40f2-a72b-7f27a2c9efff.svg" align="left" width="100" >
 
-<img src="https://user-images.githubusercontent.com/92535945/216676302-a415122d-c6e0-4d3f-835c-eeed1c195d84.png align="left" width="100" >
+<img src="https://user-images.githubusercontent.com/92535945/216676302-a415122d-c6e0-4d3f-835c-eeed1c195d84.png" align="left" width="100" >
 
