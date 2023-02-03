@@ -25,8 +25,4 @@ Mi Perfil de Linkedin: <a href="https://www.linkedin.com/in/carlos-armando-medin
 
 <img src="https://user-images.githubusercontent.com/92535945/216676302-a415122d-c6e0-4d3f-835c-eeed1c195d84.png" align="left" width="100" >
 
-<div align="left">
-<img src="https://user-images.githubusercontent.com/92535945/216677649-5dbc4ee3-f6d1-4bcb-b39c-d8d2936998b5.png" width="100">
-  <p>Electron.js</p>
-</div>
-
+<img src="https://user-images.githubusercontent.com/92535945/216679806-fc80b2d9-0083-4d33-aa0c-2851a38e993b.png" align="left" width="200">
